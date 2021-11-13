@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def main():
     i=0
     if i < 5:
