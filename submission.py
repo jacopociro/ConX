@@ -1,11 +1,12 @@
 def main():
     i=0
-    if i < 5:
-        print("Hello world")
-        i = i + 1
-    else: 
-        print("hai rotto i coglioni")
-        
+    while i < 7:
+        if i < 5:
+            print("Hello world")
+            i = i + 1
+        else: 
+            print("hai rotto i coglioni")
+            i = i + 1
 
 
 
