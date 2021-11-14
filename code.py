@@ -1,1 +1,2 @@
-print ("culo")
+from featureesempio import randomDiss
+print (randomDiss(), "culo")
